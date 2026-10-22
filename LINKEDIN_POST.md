@@ -15,7 +15,7 @@ Stack: Python • LangChain • Groq (open-source LLM) • ChromaDB • FastAPI 
 
 Next up: reranking, multi-user collections, and cloud deployment.
 
-🔗 GitHub: [your link]
+🔗 GitHub:(https://github.com/Huzaifa53786/rag-document-qa)
 
 What would you build with RAG? 👇
 
